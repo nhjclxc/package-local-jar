@@ -10,4 +10,8 @@ public class DestJarTest {
         System.out.println("DestJarTest.println " + System.currentTimeMillis());
         return "DestJarTest.getInfo " + System.currentTimeMillis();
     }
+
+    public static void main(String[] args) {
+        System.out.println(getInfo());
+    }
 }

@@ -1,10 +1,10 @@
-package com.nhjclxc.destjar;
+package com.example.localjartest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DestJarApplicationTests {
+class LocalJarTestApplicationTests {
 
     @Test
     void contextLoads() {
